@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "321413529477",
+    "project_id": "wksel-elearning",
+    "storage_bucket": "wksel-elearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321413529477:android:5fc1920f81b528a554ceec",
+        "android_client_info": {
+          "package_name": "com.wskel.mini_e_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321413529477-ufeac628la0sovilo6lb47biaupncij9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wskel.mini_e_learning",
+            "certificate_hash": "cb66337cf732d8e0913a7a9649c4ade67600a6fa"
+          }
+        },
+        {
+          "client_id": "321413529477-o5qnq8q5om7krsmenaldj3evrln66ogp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVR_N5De5rZC3xNcglWkJ6Cbs1lNGW7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321413529477-jkn214mfdmdtbmqjbk049mjm5eoi2mbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
